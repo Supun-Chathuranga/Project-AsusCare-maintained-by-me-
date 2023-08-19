@@ -61,5 +61,5 @@ Project "AsusCare" maintained by me​
         4.21.40.209 <-- latest MM
         4.21.40.314 <-- latest MM (Beta?)
 
-[Asus FlashTool (AFT)] (https://disk.yandex.ru/d/k6Q2WJnStvbkQ)/ [Intel Android Driver​](https://disk.yandex.ru/d/3EFqhnb8tvbfH)
+[Asus_FlashTool](https://disk.yandex.ru/d/k6Q2WJnStvbkQ)/ [Intel Android Driver​](https://disk.yandex.ru/d/3EFqhnb8tvbfH)
  
