@@ -3,12 +3,12 @@ Project "AsusCare" maintained by me​
 
 
     ZF2 5" ZE500CL - Z00D:
-    WW [https://yadi.sk/d/fXkICEIguGZAB](https://yadi.sk/d/fXkICEIguGZAB) (Android 5 only)
+    WW (https://yadi.sk/d/fXkICEIguGZAB) (Android 5 only)
         12.16.5.112
         12.16.5.118
         12.16.5.126 <-- latest LP
     ZF2 5,5" ZE550ML - Z008:
-    WW [https://yadi.sk/d/irxWikyFtvPhy](https://yadi.sk/d/irxWikyFtvPhy) (Android 5 & 6)
+    WW (https://yadi.sk/d/irxWikyFtvPhy) (Android 5 & 6)
         2.18.40.7
         2.20.40.92
         2.20.40.138
@@ -17,12 +17,12 @@ Project "AsusCare" maintained by me​
         2.20.40.156 <-- latest LP
         4.21.40.191 <-- latest MM
     ZF2 5,5" ZE551ML - Z00A:
-    CN [https://yadi.sk/d/P7MuyO7ntvRoq](https://yadi.sk/d/P7MuyO7ntvRoq) (Android 5 only)
+    CN (https://yadi.sk/d/P7MuyO7ntvRoq) (Android 5 only)
         2.14.40.22
         2.20.40.102
-    JP [https://yadi.sk/d/MUbas4g7yK6ef](https://yadi.sk/d/MUbas4g7yK6ef)(Android 5 only)
+    JP (https://yadi.sk/d/MUbas4g7yK6ef)(Android 5 only)
         2.20.40.197
-    WW [https://yadi.sk/d/FijRoAVJtvRiG](https://yadi.sk/d/FijRoAVJtvRiG) (Android 5 & 6)
+    WW (https://yadi.sk/d/FijRoAVJtvRiG) (Android 5 & 6)
         2.15.40.13
         2.20.40.139
         2.20.40.156
@@ -44,7 +44,7 @@ Project "AsusCare" maintained by me​
         4.21.40.327
         4.21.40.352 <-- latest MM
     ZF2 Zoom ZX551ML - Z00X/Z00A:
-    WW [https://yadi.sk/d/CfxLTiJFuLxrk](https://yadi.sk/d/CfxLTiJFuLxrk) (Android 5 & 6)
+    WW (https://yadi.sk/d/CfxLTiJFuLxrk) (Android 5 & 6)
         2.23.40.38
         2.24.40.42
         2.25.40.36
